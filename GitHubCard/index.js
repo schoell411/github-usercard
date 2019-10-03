@@ -33,6 +33,7 @@ axios
 
 let followersArray = [];
 followersArray = [
+  "thomasutsey",
   "Joshua-Edgerton",
   "briworkman",
   "jregner20",
