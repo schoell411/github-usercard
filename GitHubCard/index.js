@@ -116,11 +116,10 @@ function createCard(data) {
 
   return card;
 }
-
+  })
 /* List of LS Instructors Github username's: 
-  tetondan
-  dustinmyers
-  justsml
-  luishrd
-  bigknell
-*/
+   tetondan
+   dustinmyers
+   justsml
+   luishrd
+   bigknell*/
